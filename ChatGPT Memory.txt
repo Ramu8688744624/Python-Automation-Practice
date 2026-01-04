@@ -1,0 +1,3 @@
+I am following Backend + Python Automation path.
+I completed File automation, DB automation, and started API automation (GET + JSON + MySQL insert).
+Please continue from Phase 2 – API Automation.
